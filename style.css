@@ -1,1 +1,14 @@
-
+body {
+    background-color: black;
+    text-align: center;
+}
+p {
+    color: aliceblue;
+    font-size: 20%;
+}
+h1 {
+    font-style: italic;
+}
+.p1 {
+    color: rgb(152, 127, 175);
+}
