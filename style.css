@@ -4,13 +4,14 @@ body {
 }
 p {
     color: aliceblue;
-    font-size: 20%;
+    font-size: 60%;
 }
 h1 {
     font-style: italic;
 }
 .p1 {
     color: rgb(152, 127, 175);;
+    font-size: 70;
 }
 .imagem1 {
     text-align: center;
