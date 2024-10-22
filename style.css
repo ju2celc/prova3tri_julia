@@ -10,5 +10,9 @@ h1 {
     font-style: italic;
 }
 .p1 {
-    color: rgb(152, 127, 175);
+    color: rgb(152, 127, 175);;
+}
+.imagem1 {
+    text-align: center;
+    font-size: 60%;
 }
